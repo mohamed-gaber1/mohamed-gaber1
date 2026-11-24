@@ -3,10 +3,11 @@
 Third-year student at the Faculty of Computers and Information (IT department), Zagazig University. I'm a full-stack developer with a strong focus on backend: I build REST APIs with Node.js, Express and MongoDB, and I build frontends with React and Angular.
 
 ## Skills
-- **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, REST API design
-- **Frontend:** React, Angular, HTML/CSS
+- **Backend:** Node.js, Express, REST API design, JWT authentication, bcrypt, express-validator, Multer (file uploads)
+- **Frontend:** React, Angular, HTML, CSS
+- **Databases:** MongoDB, Mongoose, SQL, database design (ERD)
 - **Languages:** JavaScript, TypeScript, C++
-- **Tools:** Git, GitHub, Postman, Cloudinary
+- **Tools & platforms:** Git, GitHub, Postman, Cloudinary, Vercel, npm
 
 ## Featured projects
 - [backcloses](https://github.com/mohamed-gaber1/backcloses) - REST API for a men's clothing store: auth, products, orders, image uploads
