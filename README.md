@@ -1,10 +1,11 @@
 # Hi, I'm Mohamed Gaber
 
-CS student and backend developer from Egypt. I build REST APIs with Node.js, Express and MongoDB, and I enjoy solving problems with C++.
+Third-year student at the Faculty of Computers and Information (IT department), Zagazig University. I'm a full-stack developer with a strong focus on backend: I build REST APIs with Node.js, Express and MongoDB, and I build frontends with React and Angular.
 
 ## Skills
 - **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, REST API design
-- **Languages:** JavaScript, TypeScript, C++, HTML/CSS, SQL
+- **Frontend:** React, Angular, HTML/CSS
+- **Languages:** JavaScript, TypeScript, C++
 - **Tools:** Git, GitHub, Postman, Cloudinary
 
 ## Featured projects
