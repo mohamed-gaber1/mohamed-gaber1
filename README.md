@@ -5,9 +5,10 @@ Third-year student at the Faculty of Computers and Information (IT department), 
 ## Skills
 - **Backend:** Node.js, Express, REST API design, JWT authentication, bcrypt, express-validator, Multer (file uploads)
 - **Frontend:** React, Angular, HTML, CSS
-- **Databases:** MongoDB, Mongoose, SQL, database design (ERD)
+- **Databases:** SQL and NoSQL (MongoDB, Mongoose), database design (ERD)
 - **Languages:** JavaScript, TypeScript, C++
 - **Tools & platforms:** Git, GitHub, Postman, Cloudinary, Vercel, npm
+- **Problem solving:** strong algorithmic and data-structures practice through my C++ console projects
 
 ## Featured projects
 - [backcloses](https://github.com/mohamed-gaber1/backcloses) - REST API for a men's clothing store: auth, products, orders, image uploads
