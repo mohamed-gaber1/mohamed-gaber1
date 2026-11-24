@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mohamed Gaber
 
-<!--
-**mohamed-gaber1/mohamed-gaber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student and backend developer from Egypt. I build REST APIs with Node.js, Express and MongoDB, and I enjoy solving problems with C++.
 
-Here are some ideas to get you started:
+## Skills
+- **Backend:** Node.js, Express, MongoDB, Mongoose, JWT, REST API design
+- **Languages:** JavaScript, TypeScript, C++, HTML/CSS, SQL
+- **Tools:** Git, GitHub, Postman, Cloudinary
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- [backcloses](https://github.com/mohamed-gaber1/backcloses) - REST API for a men's clothing store: auth, products, orders, image uploads
+- [backFitFlex](https://github.com/mohamed-gaber1/backFitFlex) - E-commerce API for a fitness store: products, offers, orders, banners
+- [finalProject_Team5](https://github.com/mohamed-gaber1/finalProject_Team5) - Team final project: e-commerce backend with wishlist and orders
+- [codeZone](https://github.com/mohamed-gaber1/codeZone) - Backend API for an online courses platform
+- [Smart-Inventory-System](https://github.com/mohamed-gaber1/Smart-Inventory-System) - Console inventory system in C++
+
+## Currently
+- GDG on Campus backend track (2025-2026)
+- Zag Eng tasks and practice
+
+Open to internships and backend roles.
